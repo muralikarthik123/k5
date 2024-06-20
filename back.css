@@ -1,0 +1,13 @@
+.bt1{
+    background:linear-gradient(to right,rgb(228, 228, 11),rgb(138, 224, 18));
+}
+
+
+.back{
+    background-color: rgb(9, 165, 165);
+    color:aliceblue;
+    width:150px;
+    border-radius:10px;
+    height:40px;
+    border:none;
+}
